@@ -1,0 +1,55 @@
+Nom de la colonne,Type de la colonne,Pourcentage de valeurs manquantes
+Object Number,object,0.0
+Is Highlight,bool,0.0
+Is Timeline Work,bool,0.0
+Is Public Domain,bool,0.0
+Object ID,int64,0.0
+Gallery Number,object,89.78
+Department,object,0.0
+AccessionYear,object,0.8
+Object Name,object,0.47
+Title,object,5.94
+Culture,object,57.07
+Period,object,81.21
+Dynasty,object,95.22
+Reign,object,97.68
+Portfolio,object,94.53
+Constituent ID,object,41.74
+Artist Role,object,41.74
+Artist Prefix,object,41.74
+Artist Display Name,object,41.74
+Artist Display Bio,object,42.18
+Artist Suffix,object,41.75
+Artist Alpha Sort,object,41.74
+Artist Nationality,object,41.74
+Artist Begin Date,object,41.74
+Artist End Date,object,41.74
+Artist Gender,object,78.04
+Artist ULAN URL,object,53.1
+Artist Wikidata URL,object,53.77
+Object Date,object,2.77
+Object Begin Date,int64,0.0
+Object End Date,int64,0.0
+Medium,object,1.49
+Dimensions,object,15.48
+Credit Line,object,0.13
+Geography Type,object,87.64
+City,object,93.25
+State,object,99.46
+County,object,98.24
+Country,object,84.33
+Region,object,93.5
+Subregion,object,95.43
+Locale,object,96.75
+Locus,object,98.45
+Excavation,object,96.58
+River,object,99.57
+Classification,object,16.23
+Rights and Reproduction,object,94.94
+Link Resource,object,0.0
+Object Wikidata URL,object,85.74
+Metadata Date,float64,100.0
+Repository,object,0.0
+Tags,object,60.31
+Tags AAT URL,object,60.31
+Tags Wikidata URL,object,60.31

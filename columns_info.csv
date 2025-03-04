@@ -1,0 +1,102 @@
+Column Name,Column Type
+Object Number,object
+Is Highlight,bool
+Is Timeline Work,bool
+Is Public Domain,bool
+Object ID,int64
+Department,object
+AccessionYear,object
+Object Name,object
+Title,object
+Constituent ID,object
+Artist Role,object
+Artist Prefix,object
+Artist Display Name,object
+Artist Display Bio,object
+Artist Suffix,object
+Artist Alpha Sort,object
+Artist Nationality,object
+Artist Begin Date,object
+Artist End Date,object
+Artist ULAN URL,object
+Artist Wikidata URL,object
+Object Date,object
+Object Begin Date,int64
+Object End Date,int64
+Medium,object
+Dimensions,object
+Credit Line,object
+Classification,object
+Link Resource,object
+Repository,object
+num_missing,int64
+artist,int64
+gunsmith,int64
+block cutter,int64
+secondary line,int64
+inscriber,int64
+enameler,int64
+engraver,int64
+photography studio,int64
+translator,int64
+couture line,int64
+illustrator,int64
+papermaker,int64
+author,int64
+decorator,int64
+photographer,int64
+dedicatee,int64
+bladesmith,int64
+manufactory,int64
+factory owner,int64
+woodcutter,int64
+architect,int64
+factory,int64
+printmaker,int64
+etcher,int64
+subject of book,int64
+typographer,int64
+culture,int64
+correspondent,int64
+publisher,int64
+retailer,int64
+printer,int64
+patentee,int64
+poet,int64
+person in photograph,int64
+binder,int64
+lithographer,int64
+barrelsmith,int64
+maker,int64
+design house,int64
+lock maker,int64
+calligrapher,int64
+hilt maker,int64
+collaborator,int64
+inlayer,int64
+swordsmith,int64
+department store,int64
+workshop director,int64
+subject,int64
+photo source,int64
+collector,int64
+silversmith,int64
+draftsman,int64
+armorer,int64
+founder,int64
+source,int64
+designer,int64
+patron,int64
+manufacturer,int64
+steel-chiseler,int64
+purveyor,int64
+mount maker,int64
+factory director,int64
+illuminator,int64
+editor,int64
+inventor,int64
+fittings maker,int64
+modeler,int64
+sitter,int64
+goldsmith,int64
+former attribution,int64
